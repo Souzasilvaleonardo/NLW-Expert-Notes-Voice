@@ -32,10 +32,10 @@ cd notas-voz-a-texto
 
 pnpm install
 
-Inicie o Servidor de Desenvolvimento:
+#### 3 - Inicie o Servidor de Desenvolvimento:
 
 pnpm run dev
 
-#### 3 - Acesse a Aplicação:
+#### 4 - Acesse a Aplicação:
 
 Abra o navegador e acesse http://localhost:5173 para visualizar o bloco de notas online.
