@@ -23,18 +23,20 @@ Bem-vindo ao repositório do projeto de Bloco de Notas com Reconhecimento de Voz
 ## Como Executar o Projeto
 
 #### 1 - Clone o Repositório:
-
+```TypeScript
 git clone https://github.com/seu-usuario/nlw-expert-notes-voice.git
 
 cd notas-voz-a-texto
-
+```
 #### 2 - Instale as Dependências:
-
+```TypeScript
 pnpm install
+```
 
 #### 3 - Inicie o Servidor de Desenvolvimento:
-
+```TypeScript
 pnpm run dev
+```
 
 #### 4 - Acesse a Aplicação:
 
