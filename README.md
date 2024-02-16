@@ -1,4 +1,8 @@
 
+![cover (1)](https://github.com/Souzasilvaleonardo/NLW-Expert-Notes-Voice/assets/105978283/98825453-7f6c-4278-bf92-bbcc5cc02fb4)
+
+
+
 # Bloco de Notas com Reconhecimento de Voz - Projeto NLW
 
 ## Sobre o Projeto
